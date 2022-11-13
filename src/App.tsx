@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Site do Marco Guilherme</h1>
+      <h1>Site do Marco Guilherme RELOADED</h1>
       <h2>Versão {process.env.REACT_APP_SITE_VERSION}</h2>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
